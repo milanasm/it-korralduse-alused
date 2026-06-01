@@ -18,5 +18,3 @@ Hea protsess säästab aega ja vähendab segadust.
 ## Näide
 Arvuti hoolduse protsess:  
 `vastuvõtt -> vea kontroll -> parandus -> testimine -> tagastus`
-
-lol kek
