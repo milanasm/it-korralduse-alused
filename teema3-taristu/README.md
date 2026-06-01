@@ -16,3 +16,4 @@ Taristu peab olema turvaline ja hooldatud.
 ## Näide
 Kui kooli Wi‑Fi ei tööta, võib probleem olla ruuteris või kaablis.
 
+lalka
