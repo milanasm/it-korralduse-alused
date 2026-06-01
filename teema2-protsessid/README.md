@@ -19,3 +19,4 @@ Hea protsess säästab aega ja vähendab segadust.
 Arvuti hoolduse protsess:  
 `vastuvõtt -> vea kontroll -> parandus -> testimine -> tagastus`
 
+lol kek
