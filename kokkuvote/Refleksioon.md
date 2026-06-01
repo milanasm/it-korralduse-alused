@@ -1,4 +1,4 @@
-##Refleksioon
+## Refleksioon
 
 Git on versioonikontrollisüsteem, mis aitab teil jälgida failide muudatusi ja projektide kallal organiseeritumalt töötada.
 See on oluline töö eelmise versiooni taastamiseks ilma olulisi muudatusi kaotamata.
