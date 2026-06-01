@@ -1,11 +1,11 @@
 # Teema 1: ITIL
 
 ## Põhimõisted
-- **ITIL** — IT‑teenuste korraldamise raamistik.
-- **Incident** — ootamatu probleem, mis vajab kiiret lahendust.
-- **Problem** — korduv põhjus, mis tekitab incidente.
-- **Change** — muudatus süsteemis, mis võib teenuseid mõjutada.
-- **Teenuse elutsükkel** — teenuse teekond ideest kuni lõpetamiseni.
+- **ITIL** - IT‑teenuste korraldamise raamistik.
+- **Incident** - ootamatu probleem, mis vajab kiiret lahendust.
+- **Problem** - korduv põhjus, mis tekitab incidente.
+- **Change** - muudatus süsteemis, mis võib teenuseid mõjutada.
+- **Teenuse elutsükkel** - teenuse teekond ideest kuni lõpetamiseni.
 
 ## Mida õppisin
 Sain aru, et ITIL aitab IT‑tööd selgemaks ja süsteemsemaks muuta.  
